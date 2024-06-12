@@ -10,7 +10,7 @@ current plans:
 Ben's code
 - transformer architecture that runs very quickly and has an accuracy around 86%
 - implements Danning's metrics function so we can get a more accurate accuracy metric (generally around 80%)
-- trains on Ben & Saad's annotations, as well as 100 DCASE non-cry audio sets
+- trains on Ben & Saad's annotations, as well as 10 DCASE non-cry audio sets
 
 Danning's code:
 - metrics

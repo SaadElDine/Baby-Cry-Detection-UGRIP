@@ -10,3 +10,7 @@ current plans:
 Ben's code
 - transformer architecture that runs very quickly and has an accuracy around 86%
 - lots of bugs and messy code currently, will be doing more advanced metrics soon
+
+BabyCry data uploaded:
+- The names are trimmed to the first 47 characters to avoid conflict.
+- This is because Textgrid names converted _ to - at the end of the file, so we trimmed to keep relevant identification

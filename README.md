@@ -2,10 +2,11 @@
 Baby Cry Update Code
 
 current plans:
-- Pad audio
-- Augment data using DCASE23 & UrbanSounds8K
-- implement evaluation metrics
 - implement temporal contrastive loss function
+- implement evaluation metrics
+- Augment data using DCASE23 & UrbanSounds8K (half-done, only few examples were used)
+
+
 
 Ben's code
 - transformer architecture that runs very quickly and has an accuracy around 86%
